@@ -1,5 +1,5 @@
 # Project Name
-### Oneminute-Pitch
+### Pizza Palace
 
 # Author's Name
  #### Bridgit Wairimu Kirika- Scrum master
