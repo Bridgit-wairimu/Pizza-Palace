@@ -14,7 +14,7 @@
 #### . python3.6  or any other version above 3.6 
 #### . pip
 #### . open the terminal of you computer( Ctrl+Alt+T)
-#### .git clone (https://github.com/Bridgit-wairimu/oneminute-pitch)
+#### .git clone (https://github.com/Bridgit-wairimu/Pizza-Palace)
 #### . cd oneminute-pitch
 #### . then code in atom or any text editor you may prefer.
 
