@@ -13,12 +13,20 @@
  ### This application needs the below installations for it to run
 #### . python3.6  or any other version above 3.6 
 #### . pip
-
-
 #### . open the terminal of you computer( Ctrl+Alt+T)
 #### .git clone (https://github.com/Bridgit-wairimu/oneminute-pitch)
 #### . cd oneminute-pitch
 #### . then code in atom or any text editor you may prefer.
+
+#### Behaviour Driven Development
+
+## Behaviour | Input | Output
+
+#### 1. Select flavour | choose the flavour you may prefer or love | eg. margherita pizza, meat pizza etc.
+#### 2. Select crust | choose the crust you love | eg pizza bagels ,thin crust etc.
+#### 3. Select topping | choose the topping you love | eg tomato,beef etc.
+#### 4 .Input number | put the number of pizzas you want | eg 1-100.
+
 
 # Technologies used
 
@@ -41,16 +49,6 @@
 #### python3.6 (depending on which version you installed) manage.py runserver .
 
 #### after that you are ready to go
-
-#### Behaviour Driven Development
-
-
-## Behaviour | Input | Output
-
-#### 1. Select flavour | choose the flavour you may prefer or love | eg. margherita pizza, meat pizza etc.
-#### 2. Select crust | choose the crust you love | eg pizza bagels ,thin crust etc.
-#### 3. Select topping | choose the topping you love | eg tomato,beef etc.
-#### 4 .Input number | put the number of pizzas you want | eg 1-100.
 
 # Contact details
 
