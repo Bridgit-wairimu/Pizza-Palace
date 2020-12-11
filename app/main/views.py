@@ -1,8 +1,8 @@
 from flask import render_template
-from app import app 
+from . import main
 
 # views
-@app.route('/')
+@main.route('/')
 def index():
 
     """
@@ -11,7 +11,7 @@ def index():
     title = "Welcome to Pizza Palace"
     return render_template('index.html', title = title)
     
-@app.route('/pizza')
+@main.route('/pizza')
 def pizza():
 
     """
@@ -19,3 +19,11 @@ def pizza():
     """
     return render_template('pizza.html')
         
+
+@main.route('/about')
+def about():
+
+    """
+    view root page function that returns the index page and its data
+    """
+    return render_template('about.html')
