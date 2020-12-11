@@ -42,8 +42,6 @@
 
 #### Then go to your visual studio terminal or your external terminal the type the below commands
 
-#### python manage.py runserver or shell 
-
 #### ./start.sh/
 
 #### python3.6 (depending on which version you installed) manage.py runserver .
